@@ -1,0 +1,52 @@
+L - goes left
+R- goes right
+
+
+
+HUD :
+    life
+    money ( more money == more gang spawns, if child support > money, sentence increases, spends little money on tyra if caught)
+    sentence
+    ammo
+    kids
+
+ADDS :
+    watermelon -> life
+    kfc chicken -> life
+    koolaid - > life
+    desert eagle -> +5 ammo
+    welfare += money
+    tanisha += kids ie more child support LR ( monkeys shouting.mp3)
+    Food stamps : increases food spawn ( limited duration)  ( change spawn range?)
+    Bike : temp increase in speed ( nigga stole my bike.mp3) LR
+
+SUBTRACT :
+    child support -= money (function of kids) , child support image, rect text displaying money below it
+    fines -= money
+
+BENIFICIAL :
+    Jewish Lawyer : -5 years sentence LR
+    Jewish Judge : -5 years + money LR
+    Grove street boys += 10 Ammo LR
+
+AVOID :
+      COPS : -half life if caught + sentence ( oww oww oww sound from not my fault i'm black) , needs 2 bullets to kill , sentence greatly increases if killed LR ( officer tenpenny, pulaski, from go cops)
+      KKK saying nigger : Takes 1 bullet to kill, 90% HP lost / death, LR , mass spawn from both sides, escape it
+      Ballas : 1 bullet to kill , sentence increases if killed, adds ammo randomly, -25% hp lost LR
+
+
+
+sheeit popup on game over
+
+Menu :
+     Black people: diverging car meme
+              Gangsta( game starts)
+              Education and civility( neil de grass tyson pic, then quit)
+
+
+make code modular
+store time.time() for each loop in a single variable
+declare all globals at one place
+
+
+ksi saying "nigger nigger 100% nigger"
